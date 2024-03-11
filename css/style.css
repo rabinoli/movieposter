@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif; /* Set the font family for the entire document */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+/* Styles for the header section */
+header {
+    background-color: #000; /* Set background color to black */
+    color: #fff; /* Set text color to white */
+    text-align: center; /* Center-align text */
+    padding: 20px; /* Add padding */
+}
+
+/* Styles for the header's h1 element */
+header h1 {
+    font-size: 3em; /* Set font size */
+    margin-bottom: 0.5em; /* Add margin bottom */
+}
+
+/* Styles for paragraphs within header */
+header p {
+    font-size: 1.2em; /* Set font size */
+}
+
+/* Styles for the main content section */
+main {
+    padding: 20px; /* Add padding */
+}
+
+/* Styles for individual sections */
+section {
+    margin-bottom: 20px; /* Add margin bottom */
+}
+
+/* Styles for the trailer section */
+.trailer {
+    text-align: center; /* Center-align text */
+}
+
+/* Styles for trailer links */
+.trailer a {
+    display: inline-block; /* Display as block */
+    padding: 10px 20px; /* Add padding */
+    background-color: #fff; /* Set background color to white */
+    color: #000; /* Set text color to black */
+    border: 1px solid #000; /* Add border */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Set font weight to bold */
+}
+
+/* Hover effect for trailer links */
+.trailer a:hover {
+    background-color: #ddd; /* Change background color on hover */
+}
+
+/* Styles for the footer */
+footer {
+    color: #806060; /* Set text color */
+    text-align: center; /* Center-align text */
+    padding: 10px; /* Add padding */
+}
